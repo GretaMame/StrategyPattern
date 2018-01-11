@@ -1,0 +1,14 @@
+C:\Users\greta\source\repos\Strategypettern\Strategypettern\bin\Debug\Strategypettern.exe.config
+C:\Users\greta\source\repos\Strategypettern\Strategypettern\bin\Debug\Strategypettern.exe
+C:\Users\greta\source\repos\Strategypettern\Strategypettern\bin\Debug\Strategypettern.pdb
+C:\Users\greta\source\repos\Strategypettern\Strategypettern\obj\Debug\Strategypettern.csproj.CoreCompileInputs.cache
+C:\Users\greta\source\repos\Strategypettern\Strategypettern\obj\Debug\Strategypettern.exe
+C:\Users\greta\source\repos\Strategypettern\Strategypettern\obj\Debug\Strategypettern.pdb
+C:\Users\greta\source\repos\Strategypettern\Strategypettern\obj\Debug\Strategypettern.csprojResolveAssemblyReference.cache
+C:\Users\greta\MIF\PSP\1_uzduotis\StrategyPattern\Strategypettern\bin\Debug\Strategypettern.exe.config
+C:\Users\greta\MIF\PSP\1_uzduotis\StrategyPattern\Strategypettern\bin\Debug\Strategypettern.exe
+C:\Users\greta\MIF\PSP\1_uzduotis\StrategyPattern\Strategypettern\bin\Debug\Strategypettern.pdb
+C:\Users\greta\MIF\PSP\1_uzduotis\StrategyPattern\Strategypettern\obj\Debug\Strategypettern.csprojResolveAssemblyReference.cache
+C:\Users\greta\MIF\PSP\1_uzduotis\StrategyPattern\Strategypettern\obj\Debug\Strategypettern.csproj.CoreCompileInputs.cache
+C:\Users\greta\MIF\PSP\1_uzduotis\StrategyPattern\Strategypettern\obj\Debug\Strategypettern.exe
+C:\Users\greta\MIF\PSP\1_uzduotis\StrategyPattern\Strategypettern\obj\Debug\Strategypettern.pdb
